@@ -1,0 +1,27 @@
+body {
+    background-color: blanchedalmond;
+}
+
+section {
+    margin: auto;
+    max-width: 1000px;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
+    min-height: 750px;
+}
+
+button {
+    display: block;
+    margin: auto;
+    background-color: black;
+    min-width: 225px;
+    min-height: 75px;
+    border-radius: 25px;
+    color: white;
+    font-size: 28px;
+};
